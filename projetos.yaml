@@ -1,0 +1,5 @@
+projetos:
+  - nome: projeto-collection
+    descricao: Projeto simples com repositório baseado em lista estática.
+  - nome: projeto-jpa
+    descricao: Estrutura inicial para aplicação usando JPA.
